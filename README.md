@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an engineering student and pursuing ECE.
+ECE student diving into VLSI Design.
 
 
 ## 🌐 Socials:
